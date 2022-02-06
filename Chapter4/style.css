@@ -1,0 +1,44 @@
+.header-top {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.header-bottom {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.main-back {
+  width: 960px;
+  height: 1400px;
+  background-color: rgb(0, 112, 0);
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.main-right {
+  width: 230px;
+  height: 1400px;
+  background-color: lightgreen;
+}
+
+.main {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
+}
+
+.main-left {
+  width: 230px;
+  height: 1400px;
+  background-color: lightgreen;
+}
+
+.footor {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
